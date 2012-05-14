@@ -7,7 +7,7 @@ Installation
 ------------
 
     $ cd ~/.config/sublime-text-2/Packages/
-    $ git clone https://github.com/itiut/sublime-text-2-open-with-vim OpenWithVim
+    $ git clone https://github.com/rdeits/sublime-text-2-open-with-vim OpenWithVim
 
 
 Usage
