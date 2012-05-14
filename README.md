@@ -1,7 +1,7 @@
 Sublime Text 2 Open With Vim
 ============================
-Open current file with vim on terminal.
-This script works only for Linux.
+Open the current file in Vim. This works in terminal and GVim on Linux
+and MacVim on OSX.
 
 Installation
 ------------
@@ -16,3 +16,8 @@ Usage
 add the following to `User/Default (Linux).sublime-keymap`:
 
     { "keys": ["ctrl+shift+alt+i"], "command": "open_with_vim" }
+	{ "keys": ["ctrl+alt+e"], "command": "open_with_gvim"},
+
+AND/OR add the following to `User/Default (OSX).sublime-keymap`:
+	{ "keys": ["super+ctrl+e"], "command": "open_with_gvim" },
+
