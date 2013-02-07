@@ -1,4 +1,6 @@
 [
-    { "caption": "Open With Vim", "command": "open_with_vim" },
-	{ "caption": "Open With GVim", "command": "open_with_g_vim"}
+    { "caption": "Open With Vim", 
+      "command": "open_with_vim" },
+    { "caption": "Open With Gvim", 
+      "command": "open_with_gvim" }
 ]
